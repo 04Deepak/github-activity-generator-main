@@ -14,7 +14,7 @@ This script is for educational purposes and demonstrating GitHub mechanics. It s
 
 ## How to use
 1. Create an empty GitHub repository. Do not initialize it.
-2. Download [the contribute.py script](https://github.com/Shpota/github-activity-generator/archive/master.zip) 
+2. Download [the contribute.py script](https://github.com/04Deepak/github-activity-generator/archive/master.zip) 
 and execute it passing the link on the created repository
 ```sh
 python contribute.py --repository=git@github.com:user/repo.git
